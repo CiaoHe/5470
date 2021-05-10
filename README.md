@@ -61,11 +61,11 @@
 |                           | *15.53368\** | *0.06048\** | *Subsample = 0.5; lr=0.2<br />10_Fold*    |
 | RandomForestRegressor     | 15.94809     | 0.05900     |                                           |
 
-![AdaBoost Score vs Num-Estimators](/Users/kakusou/Library/Application Support/typora-user-images/image-20210509115156211.png)AdaBoost Score vs Num-Estimators
+![AdaBoost Score vs Num-Estimators](https://github.com/CiaoHe/5470/blob/master/fig/AdaBoost_Score_vs_Num-Estimators.png)AdaBoost Score vs Num-Estimators
 
-![Bagging vs #Estimators](/Users/kakusou/Library/Application Support/typora-user-images/image-20210509120342902.png)Bagging vs #Estimators
+![Bagging vs #Estimators](https://github.com/CiaoHe/5470/blob/master/fig/Bagging_vs_%23Estimators.png)Bagging vs #Estimators
 
-![ExtraTrees vs #Estimators](/Users/kakusou/Library/Application Support/typora-user-images/image-20210509123213129.png)ExtraTrees vs #Estimators
+![ExtraTrees vs #Estimators](https://github.com/CiaoHe/5470/blob/master/fig/ExtraTrees_vs_%23Estimators.png)ExtraTrees vs #Estimators
 
 ## Lightgbm
 
